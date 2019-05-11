@@ -1,6 +1,6 @@
 {
   "name": "@sammacbeth/webextify",
-  "version": "16.2.7",
+  "version": "16.2.8",
   "description": "browser-side require() the node way",
   "main": "index.js",
   "bin": {
